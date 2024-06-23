@@ -1,16 +1,5 @@
-# chat_bloc_manage
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2024-06-23 (9)](https://github.com/MayLarradi/bloc_manage_app/assets/130078019/64f9c6b7-1f02-4f9d-bad7-09dbc7bfe5e7)
+![2024-06-23 (10)](https://github.com/MayLarradi/bloc_manage_app/assets/130078019/ea808c59-cb87-4967-a342-ffaebd26c6f7)
+![2024-06-23 (11)](https://github.com/MayLarradi/bloc_manage_app/assets/130078019/553acdd5-ca92-4454-b88c-3f8e05b2c0f9)
+![2024-06-23 (12)](https://github.com/MayLarradi/bloc_manage_app/assets/130078019/a6a20cb6-07f5-4a72-a6a8-245bb1c11766)
+![2024-06-23](https://github.com/MayLarradi/bloc_manage_app/assets/130078019/e66366ca-610a-4ece-af8d-f941ca056677)
